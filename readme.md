@@ -55,7 +55,8 @@
  - React 项目中有哪些细节可以优化？实际开发中都做过哪些性能优化
  - 前端安全 xss csrf 介绍一下 如何防御？
  - 对webpack做过哪些优化？如何优化webpack来提高工作效率？
- 
+ What tools and techniques do you use debugging JavaScript code?
+
 ### 涉及面比较大的技术问题
  - 卡顿如何优化  什么样的js操作会让浏览器发生卡顿？  
  - 如何提高加载速度  
