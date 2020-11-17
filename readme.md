@@ -54,8 +54,9 @@
  - 为什么要用vdom
  - React 项目中有哪些细节可以优化？实际开发中都做过哪些性能优化
  - 前端安全 xss csrf 介绍一下 如何防御？
- - 对webpack做过哪些优化？如何优化webpack来提高工作效率？
- What tools and techniques do you use debugging JavaScript code?
+ - 对webpack做过哪些优化？如何优化webpack来提高工作效率？  
+ - What tools and techniques do you use debugging JavaScript code?  
+ 
 
 ### 涉及面比较大的技术问题
  - 卡顿如何优化  什么样的js操作会让浏览器发生卡顿？  
@@ -65,6 +66,7 @@
  - 数据正交性 勾选的列表如何设计 数据库设计范式  
 
 ### 开放性问题
+ - 你喜欢哪些开发工具? 为什么?
  - 最难缠的bug  
  - 为什么要学前端  
  - 为什么要做个人网站  
